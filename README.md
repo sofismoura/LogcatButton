@@ -6,13 +6,13 @@ O projeto permite que o usuário insira o nome de um livro e atribua uma nota. C
 
 ---
 
-## 📸 Demonstração da Interface
+##  Demonstração da Interface
 
 <img width="474" height="916" alt="Captura de tela 2026-04-01 211207" src="https://github.com/user-attachments/assets/85f976ab-c833-4033-8275-93260e3a6fc5" />
 
 ---
 
-## 🛠️ Atos Técnicos (Funcionalidades)
+##  Atos Técnicos (Funcionalidades)
 
 O projeto foca na semântica dos botões e na resposta imediata para o desenvolvedor separar rotinas de falha crítica:
 
@@ -25,7 +25,7 @@ O projeto foca na semântica dos botões e na resposta imediata para o desenvolv
 
 ---
 
-## 💻 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **Linguagem:** [Kotlin](https://kotlinlang.org/)
 * **UI Framework:** [Jetpack Compose](https://developer.android.com/jetpack/compose)
@@ -34,7 +34,7 @@ O projeto foca na semântica dos botões e na resposta imediata para o desenvolv
 
 ---
 
-## 🚀 Como Executar o Projeto
+##  Como Executar o Projeto
 
 1. **Clone este repositório:**
    ```bash
